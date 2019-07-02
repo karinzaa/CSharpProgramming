@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week02\Variable01\Variable01\bin\Debug\Variable01.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week02\Variable01\Variable01\bin\Debug\Variable01.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week02\Variable01\Variable01\bin\Debug\Variable01.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week02\Variable01\Variable01\obj\Debug\Variable01.csprojAssemblyReference.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week02\Variable01\Variable01\obj\Debug\Variable01.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week02\Variable01\Variable01\obj\Debug\Variable01.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week02\Variable01\Variable01\obj\Debug\Variable01.pdb
