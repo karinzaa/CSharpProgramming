@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\Display01\Display01\bin\Debug\Display01.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\Display01\Display01\bin\Debug\Display01.exe
+C:\Users\Karinzaa\Desktop\1913110449\Display01\Display01\bin\Debug\Display01.pdb
+C:\Users\Karinzaa\Desktop\1913110449\Display01\Display01\obj\Debug\Display01.csprojAssemblyReference.cache
+C:\Users\Karinzaa\Desktop\1913110449\Display01\Display01\obj\Debug\Display01.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\Display01\Display01\obj\Debug\Display01.exe
+C:\Users\Karinzaa\Desktop\1913110449\Display01\Display01\obj\Debug\Display01.pdb

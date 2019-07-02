@@ -1,0 +1,6 @@
+C:\Users\Karinzaa\Desktop\1913110449\Week01\Diaplay04\bin\Debug\Diaplay04.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\Week01\Diaplay04\bin\Debug\Diaplay04.exe
+C:\Users\Karinzaa\Desktop\1913110449\Week01\Diaplay04\bin\Debug\Diaplay04.pdb
+C:\Users\Karinzaa\Desktop\1913110449\Week01\Diaplay04\obj\Debug\Diaplay04.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\Week01\Diaplay04\obj\Debug\Diaplay04.exe
+C:\Users\Karinzaa\Desktop\1913110449\Week01\Diaplay04\obj\Debug\Diaplay04.pdb
