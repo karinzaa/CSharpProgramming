@@ -11,35 +11,34 @@ namespace Selection12
         static void Main(string[] args)
         {
             Console.Write("Input hour   : ");
-            double h = double.Parse(Console.ReadLine());
+            int hour = int.Parse(Console.ReadLine());
             Console.Write("Input minute : ");
-            double m = double.Parse(Console.ReadLine());
+            int minute = int.Parse(Console.ReadLine());
             Console.Write("Input second : ");
-            double s = double.Parse(Console.ReadLine());
+            int second = int.Parse(Console.ReadLine());
             Console.Write($"Time is ");
-            if (h < 10)
+            if (hour < 10 && minute >= 10 && second < 10)
             {
-                Console.Write($"0{h}:");
-                Console.Write($"{m}:");
-                Console.Write($"{s}");
+                Console.WriteLine($"Time is 0{hour}:{minute}:0{second}");
             }
-            if (m < 10)
+            else if (hour >= 10 && minute < 10 && second < 10)
             {
-                Console.Write($"{h}:");
-                Console.Write($"0{m}:");
-                Console.Write($"{s}");
+                Console.WriteLine($"Time is {hour}:0{minute}:0{second}");
             }
-            if (s < 10)
+            else if (hour < 10 && minute < 10 && second >= 10)
             {
-                Console.Write($"0{h}:");
-                Console.Write($"0{m}:");
-                Console.Write($"{s}");
+                Console.WriteLine($"Time is 0{hour}:0{minute}:{second}");
             }
             else
             {
-                Console.Write($"{h}:");
-                Console.Write($"{m}:");
-                Console.Write($"{s}");
+                if (hour >= 10 && minute >= 10 && second >= 10)
+                {
+                    Console.WriteLine($"Time is {hour}:{minute}:{second}");
+                }
+                else
+                {
+                    Console.WriteLine($"Time is 0{hour}:0{minute}:0{second}");
+                }
             }
 
             Console.ReadKey();
