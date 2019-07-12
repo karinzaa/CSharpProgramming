@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection02\bin\Debug\Selection02.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection02\bin\Debug\Selection02.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection02\bin\Debug\Selection02.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection02\obj\Debug\Selection02.csprojAssemblyReference.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection02\obj\Debug\Selection02.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection02\obj\Debug\Selection02.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection02\obj\Debug\Selection02.pdb

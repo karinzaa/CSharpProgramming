@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection12\bin\Debug\Selection12.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection12\bin\Debug\Selection12.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection12\bin\Debug\Selection12.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection12\obj\Debug\Selection12.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection12\obj\Debug\Selection12.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection12\obj\Debug\Selection12.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week04\Selection01\Selection12\obj\Debug\Selection12.csprojAssemblyReference.cache
