@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week05\Iteration01\Iteration03\bin\Debug\Iteration03.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week05\Iteration01\Iteration03\bin\Debug\Iteration03.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week05\Iteration01\Iteration03\bin\Debug\Iteration03.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week05\Iteration01\Iteration03\obj\Debug\Iteration03.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week05\Iteration01\Iteration03\obj\Debug\Iteration03.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week05\Iteration01\Iteration03\obj\Debug\Iteration03.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week05\Iteration01\Iteration03\obj\Debug\Iteration03.csprojAssemblyReference.cache
