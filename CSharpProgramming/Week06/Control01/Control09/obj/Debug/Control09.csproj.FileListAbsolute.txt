@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week06\Control01\Control09\bin\Debug\Control09.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week06\Control01\Control09\bin\Debug\Control09.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week06\Control01\Control09\bin\Debug\Control09.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week06\Control01\Control09\obj\Debug\Control09.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week06\Control01\Control09\obj\Debug\Control09.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week06\Control01\Control09\obj\Debug\Control09.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week06\Control01\Control09\obj\Debug\Control09.csprojAssemblyReference.cache
