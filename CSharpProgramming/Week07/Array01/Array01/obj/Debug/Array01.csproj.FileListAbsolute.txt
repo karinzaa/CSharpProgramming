@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week07\Array01\Array01\bin\Debug\Array01.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week07\Array01\Array01\bin\Debug\Array01.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week07\Array01\Array01\bin\Debug\Array01.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week07\Array01\Array01\obj\Debug\Array01.csprojAssemblyReference.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week07\Array01\Array01\obj\Debug\Array01.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week07\Array01\Array01\obj\Debug\Array01.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week07\Array01\Array01\obj\Debug\Array01.pdb
