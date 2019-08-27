@@ -5,7 +5,7 @@
 
 ### C#Programming in TNI </n>
 
-* This scr in TNI101 subject.</n>
+* This is scr in TNI101 subject.</n>
 
 ### Project Infomation. </n>
 * This project dev on `.NET Framework 4.7.2 or a later update.`</n>
