@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week08\Structure01\Structure01\bin\Debug\Structure01.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week08\Structure01\Structure01\bin\Debug\Structure01.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week08\Structure01\Structure01\bin\Debug\Structure01.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week08\Structure01\Structure01\obj\Debug\Structure01.csprojAssemblyReference.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week08\Structure01\Structure01\obj\Debug\Structure01.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week08\Structure01\Structure01\obj\Debug\Structure01.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week08\Structure01\Structure01\obj\Debug\Structure01.pdb
