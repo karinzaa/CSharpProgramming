@@ -1,0 +1,6 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week09\File01\File06\bin\Debug\File06.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week09\File01\File06\bin\Debug\File06.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week09\File01\File06\bin\Debug\File06.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week09\File01\File06\obj\Debug\File06.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week09\File01\File06\obj\Debug\File06.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week09\File01\File06\obj\Debug\File06.pdb
