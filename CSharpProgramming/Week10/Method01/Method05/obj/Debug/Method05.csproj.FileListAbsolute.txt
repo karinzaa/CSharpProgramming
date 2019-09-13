@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week10\Method01\Method05\bin\Debug\Method05.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week10\Method01\Method05\bin\Debug\Method05.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week10\Method01\Method05\bin\Debug\Method05.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week10\Method01\Method05\obj\Debug\Method05.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week10\Method01\Method05\obj\Debug\Method05.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week10\Method01\Method05\obj\Debug\Method05.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week10\Method01\Method05\obj\Debug\Method05.csprojAssemblyReference.cache
