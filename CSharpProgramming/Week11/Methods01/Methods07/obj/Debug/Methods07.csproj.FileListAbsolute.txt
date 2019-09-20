@@ -1,0 +1,6 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods07\bin\Debug\Methods07.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods07\bin\Debug\Methods07.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods07\bin\Debug\Methods07.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods07\obj\Debug\Methods07.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods07\obj\Debug\Methods07.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods07\obj\Debug\Methods07.pdb

@@ -1,0 +1,7 @@
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods04\bin\Debug\Methods04.exe.config
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods04\bin\Debug\Methods04.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods04\bin\Debug\Methods04.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods04\obj\Debug\Methods04.csproj.CoreCompileInputs.cache
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods04\obj\Debug\Methods04.exe
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods04\obj\Debug\Methods04.pdb
+C:\Users\Karinzaa\Desktop\1913110449\CSharpProgramming\Week11\Methods01\Methods04\obj\Debug\Methods04.csprojAssemblyReference.cache
